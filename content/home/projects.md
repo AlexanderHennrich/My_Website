@@ -75,12 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-[[item]]
-  organization = "Smelling the smelly smell"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+projekt 1
